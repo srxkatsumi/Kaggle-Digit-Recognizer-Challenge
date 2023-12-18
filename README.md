@@ -1,6 +1,6 @@
 
 
-# PT-BR Kaggle Digit Recognizer Challenge
+# PT-BR Desafio de reconhecimento de dígitos do Kaggle
 
 Este projeto foi desenvolvido para abordar o desafio do Kaggle "Digit Recognizer". O desafio envolve a classificação de dígitos manuscritos de zero a nove. Os dados de treinamento consistem em imagens em escala de cinza de 28x28 pixels, totalizando 784 pixels por imagem.
 
